@@ -7,11 +7,10 @@ title: ao's blog
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
 <h1>{{page.title}}</h1>
-<p>
 <ul class="posts">
-
+<p>
   {% for post in site.posts %}
   <li><span>{{post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
-	</ul>
-</p>
+</p>	
+</ul>
