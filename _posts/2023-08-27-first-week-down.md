@@ -30,5 +30,5 @@ What personal life? LOL! Well, I am trying to make sure I spend some time workin
 <li><p>I'm using Adobe Acrobat to annotate PDFs. Just some simple highlighting, underlining, and the addition of quick notes. The downfall I feel in this, is I can only really use it on a desktop computer.</p></li> 
 <li><p>I am trying out a vegan subscription food service -- more details on that in perhaps another post.</p></li>
 </ul>
-Any recommendations for productivity software you like to use for your studies? Hit me up! 
+Any recommendations for productivity software you like to use for your studies? Hit me up! <br />
 A hui hou. 
