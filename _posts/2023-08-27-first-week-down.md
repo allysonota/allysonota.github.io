@@ -18,7 +18,7 @@ I also set up a Discord server so we could communicate asynchronously. Slack now
 Two main works we seem to be reading chapters from, are: 
 <ul><li><p>
 Dron, J., & Anderson, T. (2014). <i>Teaching crowds: Learning and social media</i>. Athabasca University Press. https://doi.org/10.15215/aupress/9781927356807.01. </li>
-<li>Lowyck, J. (2014). Bridging learning theories and technology-enhanced environments: A critical appraisal of Its history. In J. M. Spector, M. D. Merrill, J. Elen, & M. J. Bishop (Eds.), <i>Handbook of research on educational communications and technology</i> (Fouth Edittion, pp. 3–20). Springer New York. https://doi.org/10.1007/978-1-4614-3185-5_1.</li>p></li>
+<li>Lowyck, J. (2014). Bridging learning theories and technology-enhanced environments: A critical appraisal of Its history. In J. M. Spector, M. D. Merrill, J. Elen, & M. J. Bishop (Eds.), <i>Handbook of research on educational communications and technology</i> (Fouth Edittion, pp. 3–20). Springer New York. https://doi.org/10.1007/978-1-4614-3185-5_1.</p></li>
 </ul>
 <h2>LIS</h2>
 So far, I was admitted to the course at the end of week 1, and was able to complete most of the tasks requested of us. I hope to do well in this course. 
