@@ -5,7 +5,7 @@ date: 2023-08-27
 ---
 
 <h2>LTEC</H2>
-Orientation for the ph.d. program was fun and lessened my anxiety about entering the program. There are ten of us who will move through the core curriculum together. Seven of us are brand spanking new, and the other 3 took electives in their first year and we are now on this academic adventure as a cohort. 
+Orientation for the ph.d. program was fun and lessened my anxiety about entering the program. The first week of the Fall 2023 semester is over. There are ten of us who will move through the core curriculum together. Seven of us are brand spanking new, and the other 3 took electives in their first year and we are now on this academic adventure as a cohort. 
 
 So far, we are required to take LTEC 750C - Seminar in Educational Technology Issues. We can take one elective outside the LTEC major to go towards our degree, so I opted to take an elective in my old stomping grounds--the Library school at UHM, since there were no electives I could take in LTEC this fall, and I thought it'd be interesting and useful: LIS 665 - Digital Instruction. 
 
