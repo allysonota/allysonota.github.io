@@ -22,7 +22,7 @@ Dron, J., & Anderson, T. (2014). <i>Teaching crowds: Learning and social media</
 </ul>
 <h2>LIS</h2>
 So far, I was admitted to the course at the end of week 1, and was able to complete most of the tasks requested of us. I hope to do well in this course. 
-<h2>Personal life</h2>
+<h2>Personal life & Productivity tools</h2>
 What personal life? LOL! Well, I am trying to make sure I spend some time working out, since I both enjoy and benefit from it! I am also trying out new productivity tools to help me with school and work, such as: 
 <ul>
 <li><p>I've got a weekly planner to hand-write upcoming deadlines for school & work in</p></li>
