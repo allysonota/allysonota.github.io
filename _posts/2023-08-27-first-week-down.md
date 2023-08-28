@@ -17,18 +17,18 @@ I also set up a Discord server so we could communicate asynchronously. Slack now
 
 Two main works we seem to be reading chapters from, are: 
 <ul><li><p>
-Dron, J., & Anderson, T. (2014). <i>Teaching crowds: Learning and social media</i>. Athabasca University Press. https://doi.org/10.15215/aupress/9781927356807.01. </li>
-<li>Lowyck, J. (2014). Bridging learning theories and technology-enhanced environments: A critical appraisal of Its history. In J. M. Spector, M. D. Merrill, J. Elen, & M. J. Bishop (Eds.), <i>Handbook of research on educational communications and technology</i> (Fouth Edittion, pp. 3–20). Springer New York. https://doi.org/10.1007/978-1-4614-3185-5_1.</p></li>
+Dron, J., & Anderson, T. (2014). <i>Teaching crowds: Learning and social media</i>. Athabasca University Press. https://doi.org/10.15215/aupress/9781927356807.01. </p></li>
+<li><p>Lowyck, J. (2014). Bridging learning theories and technology-enhanced environments: A critical appraisal of Its history. In J. M. Spector, M. D. Merrill, J. Elen, & M. J. Bishop (Eds.), <i>Handbook of research on educational communications and technology</i> (Fouth Edittion, pp. 3–20). Springer New York. https://doi.org/10.1007/978-1-4614-3185-5_1.</p></li>
 </ul>
 <h2>LIS</h2>
 So far, I was admitted to the course at the end of week 1, and was able to complete most of the tasks requested of us. I hope to do well in this course. 
 <h2>Personal life</h2>
 What personal life? LOL! Well, I am trying to make sure I spend some time working out, since I both enjoy and benefit from it! I am also trying out new productivity tools to help me with school and work, such as: 
 <ul>
-<li><p>I've got a weekly planner to hand-write upcoming deadlines for school & work in</li>
-<li>I've caved and reactivated my paid subscription to Speechify. It is somewhat pricey, but I do like using it to listen to articles while walking or cleaning house, or driving to work. I can listen on my desktop computer and mobile devices since there is an iOS app.</li>
-<li>I'm using Adobe Acrobat to annotate PDFs. Just some simple highlighting, underlining, and the addition of quick notes. The downfall I feel in this, is I can only really use it on a desktop computer.</li> 
-<li>I am trying out a vegan subscription food service -- more details on that in perhaps another post.</p></li>
+<li><p>I've got a weekly planner to hand-write upcoming deadlines for school & work in</p></li>
+<li><p>I've caved and reactivated my paid subscription to Speechify. It is somewhat pricey, but I do like using it to listen to articles while walking or cleaning house, or driving to work. I can listen on my desktop computer and mobile devices since there is an iOS app.</p></li>
+<li><p>I'm using Adobe Acrobat to annotate PDFs. Just some simple highlighting, underlining, and the addition of quick notes. The downfall I feel in this, is I can only really use it on a desktop computer.</p></li> 
+<li><p>I am trying out a vegan subscription food service -- more details on that in perhaps another post.</p></li>
 </ul>
 Any recommendations for productivity software you like to use for your studies? Hit me up! 
 A hui hou. 
